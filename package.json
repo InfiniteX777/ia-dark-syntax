@@ -1,0 +1,15 @@
+{
+  "name": "ia-dark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Pink syntax based on Vocaloid IA.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/ia-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
