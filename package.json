@@ -4,8 +4,10 @@
   "version": "0.0.0",
   "description": "Pink syntax based on Vocaloid IA.",
   "keywords": [
-    "syntax",
-    "theme"
+	"atom",
+	"theme",
+	"syntax",
+	"ia"
   ],
   "repository": "https://github.com/InfiniteX777/ia-dark-syntax",
   "license": "MIT",
